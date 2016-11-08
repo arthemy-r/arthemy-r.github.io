@@ -82,7 +82,7 @@ nav a {
 
 article {
     background: #eee;
-    min-height: 90vh;
+    height: 90vh;
     margin-left: 15em;
 }
 
@@ -116,6 +116,10 @@ section {
 section > img {
     display: block;
     margin: 10px auto;
+}
+
+img {
+    max-width: 90vw;
 }
 
 .content {
@@ -188,6 +192,7 @@ footer {
 
 footer p {
     margin: 50px;
+    text-indent: 0;
 }
 
 @media (max-width: 1000px) {
@@ -210,7 +215,7 @@ footer p {
     }
 
     article {
-        min-height: 100vh;
+        height: 100vh;
         margin: 0;
     }
 
