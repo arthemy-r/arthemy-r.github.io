@@ -119,6 +119,7 @@ section > img {
 }
 
 img {
+    height: auto;
     max-width: 90vw;
 }
 
