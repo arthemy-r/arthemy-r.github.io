@@ -1,4 +1,4 @@
-var domain = "https://vaisselle-vrn.github.io/";
+var domain = "https://redotter84.github.io/vaisselle-vrn";
 var path = domain + "files/blocks/";
 
 function setFlags() {
