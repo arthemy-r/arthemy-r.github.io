@@ -99,7 +99,6 @@ article {
 
 .before, section {
     display: none;
-    height: 100%;
     padding: 20px;
     text-align: justify;
 }
@@ -192,7 +191,7 @@ footer {
 }
 
 footer p {
-    margin: 50px;
+    margin: 30px;
     text-indent: 0;
 }
 
