@@ -186,7 +186,7 @@ footer {
     color: #eee;
     display: none;
     font-size: 1.7em;
-    height: 90vh;
+    min-height: 90vh;
     padding: 50px;
     text-align: center;
 }
